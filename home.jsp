@@ -11,6 +11,8 @@
 
 <h1>Hello Spring boot with jsp</h1>
 
+<h1>Hello Spring boot with jsp</h1>
+
 <ul>
 <%-- <c:forEach items="${ users }" var="user">
 	<li><span>ID: ${ user.id }</span>&nbsp;&nbsp;<span>Username: ${user.username}</span>&nbsp;&nbsp;<span>Email: ${user.email}</span></li>
